@@ -147,7 +147,7 @@ To set up and run the IGC-Net framework locally, follow these steps:
 
 ## ✍️ Author
 
-**Deepak Kumar**
+**Patrick Deva A**
 <br>
 *Research Project – Neural Image Compression*
 
